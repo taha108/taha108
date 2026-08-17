@@ -23,13 +23,6 @@ Check out my main repository: [**Computational-Math-Insights**](https://github.c
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taha108&theme=tokyonight&hide_border=true" alt="Taha's Streak" />
-</p>
-
----
-
 ### 🛡️ Core Principle
 *"We didn't come this far to come this far."*  
 **Building the future, one commit at a time.**
