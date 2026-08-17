@@ -25,7 +25,7 @@ Check out my main repository: [**Computational-Math-Insights**](https://github.c
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=taha108&show_icons=true&theme=tokyonight&hide_border=true" alt="Taha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taha108&show_icons=true&theme=transparent" alt="Taha's GitHub Stats" />
 </p>
 
 ---
